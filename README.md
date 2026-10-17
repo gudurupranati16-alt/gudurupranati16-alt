@@ -1,6 +1,6 @@
 # Hi, I'm Pranati 👋
 
-I'm a third-year CSE student at VIT-AP University (Class of 2027), and I learn best by building things end to end. Right now I'm working toward a Google SWE internship in 2027.
+I'm a third-year CSE student at VIT-AP University (Class of 2027), and I learn best by building things end to end. 
 
 I'm active in GDG and the GeeksforGeeks Campus Club, and I recently finished an internship at Tech Mahindra where I worked across AI/ML, backend, and DevSecOps.
 
